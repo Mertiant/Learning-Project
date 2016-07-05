@@ -15,5 +15,5 @@ This will be a great way to demonstrate what you have learned to the world.
 This will serve as a portfolio and as something to look forward to.
 
 
-##categories
+##categories 
 [X] Python
